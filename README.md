@@ -3,6 +3,7 @@
 
 Paper: Unsupervised Domain Adaptation by Backpropagation
 Authors: Yaroslav Ganing - Victor Lempitsky 
+
 ---
 
 Description: In this paper, the GRL (Gradient Reverse Layer) block was used for performing UDA via Backpropagation. 
@@ -11,7 +12,8 @@ Description: In this paper, the GRL (Gradient Reverse Layer) block was used for 
 
 Model Figure: 
 
-![download](https://github.com/user-attachments/assets/e4ff04c0-3a62-448a-8e2f-d50b64902dda)
+![model](https://github.com/user-attachments/assets/46114d50-33bc-40aa-99a0-4e4ff578932f)
+
 
 
 --- 
